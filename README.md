@@ -6,7 +6,7 @@
 
 * 💻 I'm a Developer. I focus primarily on Minecraft Server development.
 * 💡 I like to explore new things and develop them.
-* 🌐 I was working or I am currently working on some popular projects like Survality.cz, Gold-Zone.cz, DiaWorlds.eu
+* 🌐 I was working or I am currently working on some popular projects like Survality.cz, Gold-Zone.cz, DiaWorlds.eu and BeeGames.eu!
 * 🎓 I'm currently studying on grammar school.
 * 🌱 I'm on track for learning more about Lua. 
 * 💬 Feel free to reach out to me for consulting and volunteering or just for some interesting discussion.
