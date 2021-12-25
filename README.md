@@ -41,3 +41,5 @@
 <a href="https://instagram.com/_trapizzi"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://discord.diaworlds.eu"><img src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord&logoColor=white"/></a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=IzziInside)
